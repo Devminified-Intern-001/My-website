@@ -27,7 +27,7 @@ header nav ul li {
 }
 
 header nav ul li a {
-    color: white;
+    color: rgb(228, 145, 145);
     text-decoration: none;
     font-weight: bold;
 }
@@ -46,16 +46,16 @@ section {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #af4c4c;
 }
 h1{
-    color:aqua;
+    color:rgb(0, 0, 0);
 }
 
 /* Footer styles */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #c3ec64;
+    color: rgb(62, 40, 187);
     text-align: center;
     padding: 10px 0;
     position: fixed;
